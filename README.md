@@ -5,6 +5,22 @@
 ---
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-983%20hrs%203%20mins-blue?style=flat)
 
- Last Updated on 28/05/2026 18:48:33 UTC
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Rust                     7 hrs 38 mins       █████████████████████████   99.87 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+
+🔥 Editors: 
+Neovim                   7 hrs 39 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Linux                    7 hrs 39 mins       █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 29/05/2026 00:28:54 UTC
 <!--END_SECTION:waka-->
