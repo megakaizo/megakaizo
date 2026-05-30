@@ -5,22 +5,25 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-983%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-988%20hrs%2040%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Rust                     7 hrs 38 mins       █████████████████████████   99.87 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Rust                     8 hrs 48 mins       ████████████████████████░   96.19 % 
+Python                   20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-Neovim                   7 hrs 39 mins       █████████████████████████   100.00 % 
+Neovim                   8 hrs 46 mins       ████████████████████████░   95.84 % 
+VS Code                  22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
 
 💻 Operating System: 
-Linux                    7 hrs 39 mins       █████████████████████████   100.00 % 
+Linux                    9 hrs 9 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 30/05/2026 00:26:16 UTC
+ Last Updated on 30/05/2026 06:56:04 UTC
 <!--END_SECTION:waka-->
