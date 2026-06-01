@@ -5,25 +5,26 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-988%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-991%20hrs%2051%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Rust                     9 hrs 46 mins       ████████████████████████░   96.59 % 
-Python                   20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Rust                     11 hrs 52 mins      ███████████████████████░░   90.79 % 
+TOML                     48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
+Python                   20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+Lua                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-Neovim                   9 hrs 44 mins       ████████████████████████░   96.24 % 
-VS Code                  22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
+Neovim                   12 hrs 41 mins      ████████████████████████░   97.09 % 
+VS Code                  22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
 
 💻 Operating System: 
-Linux                    10 hrs 6 mins       █████████████████████████   100.00 % 
+Linux                    13 hrs 4 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 01/06/2026 00:27:00 UTC
+ Last Updated on 01/06/2026 07:37:56 UTC
 <!--END_SECTION:waka-->
