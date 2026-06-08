@@ -5,25 +5,23 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C004%20hrs%207%20mins-blue?style=flat)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Rust                     10 hrs 57 mins      ██████████████████████░░░   87.92 % 
-TOML                     1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
-Lua                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
-gitignore                3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
-YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Rust                     11 hrs 37 mins      ████████████████████████░   94.78 % 
+TOML                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
+gitignore                3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+Lua                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🔥 Editors: 
-Neovim                   12 hrs 28 mins      █████████████████████████   100.00 % 
+Neovim                   12 hrs 15 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    12 hrs 28 mins      █████████████████████████   100.00 % 
+Linux                    12 hrs 15 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 07/06/2026 18:23:09 UTC
+ Last Updated on 08/06/2026 00:29:50 UTC
 <!--END_SECTION:waka-->
