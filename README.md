@@ -1,6 +1,11 @@
 # kaizo://
 
-*build and break systems sometimes*
+*Software Engineer..terminal enjoyer..Linux daemon*
+
+---
+**My tech:**
+
+Rust | Python | Backend | System tools | CLI funs
 
 ---
 
