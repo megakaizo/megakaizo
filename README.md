@@ -1,6 +1,6 @@
 # kaizo://
 
-**software_engineer::terminal_enjoyer::linux_daemon**
+**software_engineer::terminal_enjoyer::linux_daemon;**
 
 ---
 
