@@ -1,9 +1,8 @@
 # kaizo://
 
-*Software Engineer..terminal enjoyer..Linux daemon*
+*Software_Engineer::terminal_enjoyer::Linux_daemon*
 
----
-**My tech:**
+My techs:
 
 Rust | Python | Backend | System tools | CLI funs
 
