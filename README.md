@@ -1,12 +1,12 @@
 # kaizo://
 
-**software_engineer::terminal_enjoyer::linux_daemon;**
+**Python / Rust Backend Engineer**
 
 ---
 
 *My techs:*
 
-Rust | Python | Backend | System tools | CLI funs
+Rust (Axum, Tokio), Python (FastAPI, SQLAlchemy, Httpx, Langchain), Linux, Bash, PostgreSQL, Docker, Redis, RabbitMQ, CI/CD    
 
 ---
 
