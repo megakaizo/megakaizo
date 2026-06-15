@@ -1,10 +1,8 @@
-# kaizo://
-
 **Python / Rust Backend Engineer**
 
 ---
 
-*My techs:*
+*I write on:*
 
 Rust (Axum, Tokio), Python (FastAPI, SQLAlchemy, Httpx, Langchain), Linux, Bash, PostgreSQL, Docker, Redis, RabbitMQ, CI/CD    
 
