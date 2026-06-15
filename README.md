@@ -4,7 +4,7 @@
 
 *I write on:*
 
-Rust (Axum, Tokio), Python (FastAPI, SQLAlchemy, Httpx, Langchain), Linux, Bash, PostgreSQL, Docker, Redis, RabbitMQ, CI/CD    
+Rust (Axum, Tokio), Python (FastAPI, SQLAlchemy, Langchain), Linux, Bash, PostgreSQL, Docker, Redis, RabbitMQ, CI/CD    
 
 ---
 
