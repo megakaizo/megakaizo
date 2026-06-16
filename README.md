@@ -1,4 +1,4 @@
-**Python / Rust Backend Engineer**
+**Python / Rust Software Engineer**
 
 ---
 
