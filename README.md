@@ -15,19 +15,19 @@ Rust (Axum, Tokio), Python (FastAPI, SQLAlchemy, Langchain), Linux, Bash, Postgr
 
 ```text
 💬 Programming Languages: 
-Rust                     13 hrs 38 mins      ████████████░░░░░░░░░░░░░   49.38 % 
-Python                   11 hrs 55 mins      ███████████░░░░░░░░░░░░░░   43.22 % 
-Bash                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
-Markdown                 41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
-YAML                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+Rust                     13 hrs 32 mins      ██████████████░░░░░░░░░░░   55.46 % 
+Python                   9 hrs 13 mins       █████████░░░░░░░░░░░░░░░░   37.81 % 
+Bash                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
+Markdown                 41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
+TOML                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 
 🔥 Editors: 
-Neovim                   27 hrs 36 mins      █████████████████████████   100.00 % 
+Neovim                   24 hrs 24 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    27 hrs 36 mins      █████████████████████████   100.00 % 
+Linux                    24 hrs 24 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 17/06/2026 18:45:37 UTC
+ Last Updated on 18/06/2026 00:33:12 UTC
 <!--END_SECTION:waka-->
