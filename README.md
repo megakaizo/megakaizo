@@ -1,4 +1,4 @@
-**Python / Rust Software Engineer**
+**Python / Rust Software Engineer | Open to work**
 
 ---
 
