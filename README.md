@@ -9,26 +9,26 @@ Rust (Axum, Tokio), Python (FastAPI, SQLAlchemy, Langchain), Linux, Bash, Postgr
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C058%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C052%20hrs%2036%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Python                   6 hrs 44 mins       █████████████████░░░░░░░░   68.74 % 
-Rust                     2 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   24.12 % 
-V                        19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
-Lua                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
-C++                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+Python                   11 hrs 19 mins      ███████████████████░░░░░░   76.52 % 
+Rust                     2 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
+Markdown                 29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
+YAML                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+Text                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 
 🔥 Editors: 
-Neovim                   9 hrs 47 mins       █████████████████████████   99.86 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+Neovim                   14 hrs 47 mins      █████████████████████████   99.90 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 💻 Operating System: 
-Linux                    9 hrs 48 mins       █████████████████████████   100.00 % 
+Linux                    14 hrs 48 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 27/06/2026 18:21:24 UTC
+ Last Updated on 28/06/2026 00:26:08 UTC
 <!--END_SECTION:waka-->
